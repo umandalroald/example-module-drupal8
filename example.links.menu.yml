@@ -1,0 +1,6 @@
+example.example:
+  title: 'Example module settings'
+  description: 'Example Module'
+  parent: system.admin_structure
+  route_name: example.example
+  weight: 100

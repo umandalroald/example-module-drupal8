@@ -1,0 +1,9 @@
+name: Example
+type: module
+description: 'Example module drupal 8.'
+package: Custom
+version: 8.x-1.0
+dependencies
+  - ctools
+core: 8.x
+
